@@ -54,7 +54,7 @@
     "grunt-npm-install": "0.3.1",
     "grunt-retire": "0.3.12",
     "mocha": "2.5.3",
-    "nodemon": "1.19.1",
+    "nodemon": "1.19.4",
     "selenium-webdriver": "2.53.3",
     "should": "8.4.0",
     "zaproxy": "0.2.0"
