@@ -13,7 +13,7 @@
     "express": "4.16.4",
     "express-session": "1.15.6",
     "forever": "2.0.0",
-    "helmet": "2.3.0",
+    "helmet": "4.6.0",
     "marked": "0.3.9",
     "mongodb": "2.2.36",
     "needle": "2.2.4",
