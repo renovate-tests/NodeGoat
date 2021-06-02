@@ -4,5 +4,6 @@
     "config:base",
     ":dependencyDashboard"
   ],
+  "prConcurrentLimit": 0,
   "prHourlyLimit": 0
 }
